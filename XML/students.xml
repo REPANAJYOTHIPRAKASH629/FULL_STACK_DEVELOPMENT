@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  
+  <student>
+    <roll_number>22695A3203</roll_number>
+    <name>Prakash</name>
+    <college_name>Madanapalli Institute of Technology and Science</college_name>
+    <branch>Data Science</branch>
+    <year_of_joining>2021</year_of_joining>
+    <email>prakash@gmail.com</email>
+  </student>
+  <student>
+    <roll_number>22695A3204</roll_number>
+    <name>Khizar</name>
+    <college_name>Madanapalli Institute of Technology and Science</college_name>
+    <branch>Data Science</branch>
+    <year_of_joining>2021</year_of_joining>
+    <email>khizar@gmail.com</email>
+  </student>
+  <student>
+    <roll_number>22695A3201</roll_number>
+    <name>Balaji</name>
+    <college_name>Madanapalli Institute of Technology and Science</college_name>
+    <branch>Data Science</branch>
+    <year_of_joining>2021</year_of_joining>
+    <email>tapana@gmail.com</email>
+  </student>
+</students>

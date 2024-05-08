@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to MITS e-Book's website</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden; /* to prevent scrollbars in the frameset */
+        }
+
+        frame {
+            border: none; /* remove borders for frames */
+        }
+    </style>
+</head>
+<frameset rows="30%,*">
+    <frame name="top"  noresize scrolling="no" src="top.html"/>
+    <frameset cols="15%,*">
+        <frame name="left" noresize scrolling="no" src="left.html" />
+        <frame name="right" noresize src="right.html" />
+    </frameset>
+</frameset>
+<noframes>
+    <body>
+        <!-- Provide an alternative content for browsers that do not support frames -->
+        <p>This page uses frames, but your browser doesn't support them.</p>
+    </body>
+</noframes>
+</html>
